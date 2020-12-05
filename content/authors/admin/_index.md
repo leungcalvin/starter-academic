@@ -12,6 +12,8 @@ role: PhD Candidate in Physics
 organizations:
 - name: Massachusetts Institute of Technology
   url: "https://space.mit.edu/people/leung-calvin/"
+- name: CHIME/FRB
+  url: "https://chime-experiment.ca/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include very long baseline interferometry, gravitational lensing, and anything that can be solved with a Fourier Transform.
@@ -19,8 +21,8 @@ bio: My research interests include very long baseline interferometry, gravitatio
 interests:
 - Fast Radio Bursts
 - Cosmology
-- Parameter Estimation
-- Precision Measurement
+- Statistical Inference
+- High-Performance Computing
 
 education:
   courses:
