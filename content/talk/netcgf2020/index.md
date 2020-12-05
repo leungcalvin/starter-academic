@@ -3,7 +3,7 @@
 
 title: "Localizing CHIME/FRB's Fast Radio Bursts for Cosmology" 
 event: "New England Theoretical Cosmology, Gravitation, and Fields Workshop 2020"
-event_url:
+event_url: "https://sites.dartmouth.edu/cosmology-gravity-fields/program-schedule/?fbclid=IwAR0sZxfT8cj7ZZLyk5OYqu7kHLGdL3aUs6bSLvYQmuyLK59as78oRz-uqXQ"
 location:
 address:
   street:
@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-12-05T02:31:53-08:00
-date_end: 2020-12-05T02:31:53-08:00
+date: 2020-07-01T02:31:53-08:00
+date_end: 2020-07-01T02:31:53-08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: "https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/0/1914/files/2020/07/CalvinLeung.pdf"
 url_video:
 
 # Markdown Slides (optional).
@@ -57,7 +57,7 @@ url_video:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
