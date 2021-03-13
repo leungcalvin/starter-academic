@@ -27,4 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I was quoted in the Globe! I am very excited to use fast radio bursts as tools for precision measurements. https://www.bostonglobe.com/2020/06/19/metro/mit-researchers-help-discover-first-pattern-fast-radio-bursts-outer-space/
+I was quoted in the Globe! I am very excited to use fast radio bursts as tools for precision measurements. The biggest limitation of FRB science right now is associating FRBs to their host galaxies. When we can do this, we will be able to extract each FRB's redshift, the standard distance measure for cosmologists. We can connect the existing cosmological paradigm to the exciting new observables that FRBs provide|dispersion, magnetic field measurements, precise time delays, etc.
+
+https://www.bostonglobe.com/2020/06/19/metro/mit-researchers-help-discover-first-pattern-fast-radio-bursts-outer-space/

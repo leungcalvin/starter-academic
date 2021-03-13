@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Lensing"
+title: "Searching for Gravitationally Lensed FRBs"
 summary: "Looking for multi-path propagation in fast radio burst emission"
 authors: []
 tags: ['FRB','Cosmology']
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+The transient nature of fast radio bursts gives them enormous potential as cosmological probes through gravitational lensing. In addition, as in the case for gravitational waves, radio antennas detect the field amplitude directly rather than the power of the radiation, enabling coherent searches for multi-path propagation. Strongly-lensed fast radio bursts can then be used as cosmological interferometers, probing vast propagation distances with bandwidth-limited time resolution, to uncover a wealth of never-before-seen observables. I am leading the
+gravitational lensing working group within the CHIME/FRB collaboration to search for these rare events.

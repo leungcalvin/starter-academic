@@ -51,7 +51,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: http://www.ursi.org/proceedings/procGA20/presentations/SPCLeung.mp4
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

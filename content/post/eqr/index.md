@@ -3,7 +3,7 @@
 
 title: "PBS/NOVA: Einstein's Quantum Riddle"
 subtitle: ""
-summary: "Featuring my work in quantum optics at IQOQI."
+summary: "My work in quantum optics in developing a cosmic Bell experiment was featured on a full-length PBS Nova documentary."
 authors: []
 tags: []
 categories: []
